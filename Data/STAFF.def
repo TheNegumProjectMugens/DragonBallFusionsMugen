@@ -1,0 +1,68 @@
+[Info]
+localcoord = 640,480
+
+[SceneDef]
+spr = STAFF.sff
+startscene = 0
+
+;------------------------------------
+[Scene 0]
+
+fadein.time = 30
+fadein.col = 0,0,0
+fadeout.time = 16
+fadeout.col = 0,0,0
+clearcolor = 0,0,0
+
+bg.name = BG0
+
+layerall.pos = 0,0
+;layer0.anim = 0
+layer0.offset = 160,0
+layer0.starttime = 0
+
+bgm = STAFF.mp3
+bgm.loop = 0
+end.time = 5200
+
+;------------------------------------
+[BG0Def]
+
+[BG0 BG]
+type = normal
+spriteno = 0,1
+start = 0,240
+tile = 1,1
+velocity =  0,1
+
+[BG0 StuffRoll]
+type = normal
+spriteno = 0,0
+start = 0,240
+tile = 0,0
+mask = 1
+ID = 0
+
+;------------------------------------
+[BG0CtrlDef StuffRoll]
+CtrlID = 0
+
+[BG0Ctrl StuffRoll]
+type = VelSet
+Time = 40
+y = -0.5
+
+[BG0Ctrl StuffRoll]
+type = VelSet
+Time = 4620
+y = 0
+
+;------------------------------------
+;[Begin Action 0]
+;0,0,0,0,-1
+
+
+
+
+
+

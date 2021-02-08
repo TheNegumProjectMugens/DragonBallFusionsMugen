@@ -1,0 +1,87 @@
+--------------------------------------------------------------
+
+[Info]
+name = "INTRO"
+author = "mazemerald"
+versiondate = 21-07-2010
+mugenversion = 1.0
+localcoord = 640,480
+
+; -------------------------------------------------------------------
+
+[SceneDef]
+spr = INTRO.sff
+startscene = 0
+
+; -------------------------------------------------------------------
+
+[Scene 0]
+fadein.time = 60
+fadeout.time = 60
+end.time = 300
+bg.name = BG0
+bgm = CAPCOM.mp3
+bgm.loop = 0
+bgm.volume = 255
+
+[BG0Def]
+
+[BG0 snk]
+type = normal
+spriteno = 0,0
+start = 0,0
+
+; -------------------------------------------------------------------
+
+[Scene 1]
+fadein.time = 60
+fadeout.time = 60
+end.time = 300
+bg.name = BG1
+;bgm = 
+;bgm.loop = 0
+;bgm.volume = 255
+
+[BG1Def]
+
+[BG1 criware]
+type = normal
+spriteno = 0,1
+start = 0,0
+
+; -------------------------------------------------------------------
+
+[Scene 2]
+fadein.time = 60
+fadeout.time = 60
+end.time = 300
+bg.name = BG2
+;bgm = 
+;bgm.loop = 0
+;bgm.volume = 255
+
+[BG2Def]
+
+[BG2 kof15th]
+type = normal
+spriteno = 0,2
+start = 0,0
+
+; -------------------------------------------------------------------
+[Scene 3]
+fadein.time = 60
+fadeout.time = 60
+end.time = 300
+bg.name = BG3
+;bgm = 
+;bgm.loop = 0
+;bgm.volume = 255
+
+[BG3Def]
+
+[BG3 kof15th]
+type = normal
+spriteno = 0,3
+start = 0,0
+; -------------------------------------------------------------------
+

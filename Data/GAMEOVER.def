@@ -1,0 +1,33 @@
+--------------------------------------------------------------
+
+[Info]
+name = "GAMEOVER"
+author = "mazemerald"
+versiondate = 21-07-2010
+mugenversion = 1.0
+localcoord = 640,480
+
+; -------------------------------------------------------------------
+
+[SceneDef]
+spr = GAMEOVER.sff
+startscene = 0
+
+; -------------------------------------------------------------------
+
+[Scene 0]
+fadein.time = 60
+fadeout.time = 60
+end.time = 300
+bg.name = BG0
+bgm = GAMEOVER.mp3
+bgm.loop = 0
+bgm.volume = 255
+
+[BG0Def]
+
+[BG0 snk]
+type = normal
+spriteno = 0,0
+start = 0,0
+

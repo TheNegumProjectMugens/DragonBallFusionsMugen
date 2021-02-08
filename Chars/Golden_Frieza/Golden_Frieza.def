@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Golden Frieza"
+displayname ="Frieza"
+versiondate =20/3/2017
+mugenversion =1.0
+author ="Mikel8888, Edit by TrafalgarLawzz"
+pal.defaults =1,2,3,4,5,6
+
+[Files]
+sprite =Golden_Frieza.sff
+anim =Golden_Frieza.air
+sound =Golden_Frieza.snd
+cmd =Golden_Frieza.cmd
+cns =Golden_Frieza.cns
+stcommon =common1.cns
+st =Golden_Frieza.cns
+pal1=1.act
+st1=IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

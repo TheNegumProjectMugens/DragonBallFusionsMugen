@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Black"
+displayname ="Black"
+versiondate =20/3/2017
+mugenversion =1.0
+author ="Mikel8888, Edit by TrafalgarLawzz"
+pal.defaults =1,2,3,4,5,6
+
+[Files]
+sprite =Black_Goku.sff
+anim =Black_Goku.air
+sound =Black_Goku.snd
+cmd =Black_Goku.cmd
+cns =Black_Goku.cns
+stcommon =common1.cns
+st =Black_Goku.cns
+pal1=1.act
+st1=IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Goku SSB"
+displayname ="Goku"
+versiondate =17/3/2017
+mugenversion =1.0
+author ="Mikel8888, Edit TrafalgarLawzz"
+pal.defaults =1,2,3,4,5,6
+
+[Files]
+sprite =Goku_SSB.sff
+anim =Goku_SSB.air
+sound =Goku_SSB.snd
+cmd =Goku_SSB.cmd
+cns =Goku_SSB.cns
+stcommon =common1.cns
+st =Goku_SSB.cns
+pal1=1.act
+st1=IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

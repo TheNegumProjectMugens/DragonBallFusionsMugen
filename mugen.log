@@ -1,0 +1,898 @@
+---------------------------------------------------
+M.U.G.E.N ver 1.1.0 Beta 1 P1 (2013.08.11) status log
+---------------------------------------------------
+Parsing command line...
+Command line: C:\Users\Efinium\Downloads\Dragon Ball Fusions M.U.G.E.N (Update Black Goku) by TrafalgarLawzz\Dragon Ball Fusions M.U.G.E.N\Dragon Ball Fusions M.U.G.E.N.exe
+Parse command line OK
+Initializing...
+Allocating game variables
+Reading configuration file...Setting language "en".
+OK
+Initializing timer...performance timer enabled...frequency 3215354...OK
+Initializing keyboard...configuring...OK
+Initializing input engine...OK
+Initializing sound...OK
+Initializing BGM...  OK
+Initializing graphics...gameCoord 1280x720...render mode 2_20...trying 1280x720x32 mode 0x0...success...OK
+Setting callbacks...OK
+Initializing font...OK
+Initializing game variables...OK
+Session RNG seed is 1492676572
+Loading system fonts...OK
+Loading options...
+Initializing pads...failed
+Reinitializing input engine...OK
+Remapping keys...OK
+Reinitializing input engine...OK
+Options loaded OK
+Loading system...
+  Load system file system.def...OK
+  Load system spr...OK
+  Load system snd...OK
+  Load system fonts...OK
+  Load system anim...OK
+  Load [Title Info]...OK
+  Load [Option Info]...OK
+  Load [Select Info]...OK
+  Load [VS Screen]...OK
+  Load [Victory Screen]...OK
+  Load [Demo Mode]...OK
+  Load [Continue Screen]...OK
+  Load [Game Over Screen]...OK
+  Load [Win Screen]...OK
+  Load [End Credits]...OK
+  Load TitleBG...VersusBG...VictoryBG...SelectBG...OptionBG...OK
+  Loading fight data
+    Opening fight data file data/CVS3/fight.def...OK
+    Reading [Files]...OK
+    Loading fonts...OK
+    Load fight anim...OK
+    Reading [Lifebar]...[Turns Lifebar]...[Simul Lifebar]...[Powerbar]...
+    [Face]...[Simul Face]...[Turns Face]...
+    [Name]...[Simul Name]...[Turns Name]...
+    [Time]...[Combo]...[Round]...[WinIcon]...OK
+    Allocating explods...OK
+  Fight data loaded OK
+Lua initing
+Lua init complete
+System loaded OK
+Setting game resolution 1280x960...OK
+Initialize OK
+Set up graphics...timer...OK
+
+Entering gameflow loop
+Gameflow 0
+Gameflow 1
+Gameflow 2
+Initializing character info...OK
+Initializing select screen...finding characters...
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/======= Insert secret char Here ===============/======= Insert secret char Here ===============.def
+
+  Error reading character file: chars/_____________________________________________/_____________________________________________.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|         DO NOT REMOVE THIS BOX              |/|         DO NOT REMOVE THIS BOX              |.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/======= Insert secret char Here ===============/======= Insert secret char Here ===============.def
+
+  Error reading character file: chars/_____________________________________________/_____________________________________________.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|         DO NOT REMOVE THIS BOX              |/|         DO NOT REMOVE THIS BOX              |.def
+
+  Error reading character file: chars/|            (CPU characters)                 |/|            (CPU characters)                 |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|_____________________________________________|/|_____________________________________________|.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/======= Insert secret char Here ===============/======= Insert secret char Here ===============.def
+
+  Error reading character file: chars/_____________________________________________/_____________________________________________.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|         DO NOT REMOVE THIS BOX              |/|         DO NOT REMOVE THIS BOX              |.def
+
+  Error reading character file: chars/|            (CPU characters)                 |/|            (CPU characters)                 |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|_____________________________________________|/|_____________________________________________|.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|         DO NOT REMOVE THIS BOX              |/|         DO NOT REMOVE THIS BOX              |.def
+
+  Error reading character file: chars/|            (CPU characters)                 |/|            (CPU characters)                 |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|_____________________________________________|/|_____________________________________________|.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/==       blank area        ==/==       blank area        ==.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|         DO NOT REMOVE THIS BOX              |/|         DO NOT REMOVE THIS BOX              |.def
+
+  Error reading character file: chars/|            (CPU characters)                 |/|            (CPU characters)                 |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|_____________________________________________|/|_____________________________________________|.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|         |/|         |.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|         DO NOT REMOVE THIS BOX              |/|         DO NOT REMOVE THIS BOX              |.def
+
+  Error reading character file: chars/|            (CPU characters)                 |/|            (CPU characters)                 |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|_____________________________________________|/|_____________________________________________|.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|         DO NOT REMOVE THIS BOX              |/|         DO NOT REMOVE THIS BOX              |.def
+
+  Error reading character file: chars/|            (CPU characters)                 |/|            (CPU characters)                 |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|_____________________________________________|/|_____________________________________________|.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|         DO NOT REMOVE THIS BOX              |/|         DO NOT REMOVE THIS BOX              |.def
+
+  Error reading character file: chars/|            (CPU characters)                 |/|            (CPU characters)                 |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|_____________________________________________|/|_____________________________________________|.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|         DO NOT REMOVE THIS BOX              |/|         DO NOT REMOVE THIS BOX              |.def
+
+  Error reading character file: chars/|            (CPU characters)                 |/|            (CPU characters)                 |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|_____________________________________________|/|_____________________________________________|.def
+
+  Error reading character file: chars/_____________________________________________/_____________________________________________.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/_|/_|.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/AKUMA/AKUMA.def
+
+  Error reading character file: chars/URIEN/URIEN.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/MR.KARATE\MrKarate.def
+
+  Error reading character file: chars/KRAUSER/KRAUSER.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/_____________________________________________/_____________________________________________.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/_____________________________________________/_____________________________________________.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|  DO NOT REMOVE THIS BOX  (CPU characters)   |/|  DO NOT REMOVE THIS BOX  (CPU characters)   |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|                                             |/|                                             |.def
+
+  Error reading character file: chars/|_____________________________________________|/|_____________________________________________|.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/==========Insert CPU-ONLY character in this line============/==========Insert CPU-ONLY character in this line============.def
+
+  Error reading character file: chars/_/_.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|_________/|_________.def
+
+  Error reading character file: chars/|         |/|         |.def
+
+  Error reading character file: chars/|         |/|         |.def
+
+  Error reading character file: chars/|       THIS AREA MUST NOT BE REMOVED/|       THIS AREA MUST NOT BE REMOVED.def
+
+  Error reading character file: chars/|-------FOR CPU-ONLY CHARACTERS/|-------FOR CPU-ONLY CHARACTERS.def
+
+  Error reading character file: chars/|       TO WORK PROPERLY/|       TO WORK PROPERLY.def
+
+  Error reading character file: chars/|         |/|         |.def
+
+  Error reading character file: chars/|_________|/|_________|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/|/|.def
+
+  Error reading character file: chars/_|/_|.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+OK
+Gameflow 3
+Gameflow 4
+Entering mode select.
+Unloading match assets
+Freeing players
+Game loop init
+Mode select init
+End of mode select loop
+Game loop deinit
+Gameflow 5
+Entering options screen.
+Unloading match assets
+Freeing players
+Game loop init
+Options screen init
+Config keys menu
+Setting up input
+Remapping keys...OK
+Reinitializing input engine...OK
+Return from config keys menu
+End of options screen loop
+Game loop deinit
+Gameflow 4
+Entering mode select.
+Unloading match assets
+Freeing players
+Game loop init
+Mode select init
+End of mode select loop
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Game loop init
+Unreserved all palettes
+Charsel init
+Selected char 9 on teamslot 0.0
+Char Goku_SSB.def (9) request pal 0 1 (1) -> reserved 0 (0)
+Selected char 22 on teamslot 1.0
+Char Golden_Frieza.def (22) request pal 0 1 (1) -> reserved 0 (0)
+End of charsel loop
+Game loop deinit
+Gameflow 8
+Gameflow 9
+Gameflow 10
+Entering versus screen.
+Unloading match assets
+Freeing players
+Game loop init
+Versus screen init
+End of versus screen loop
+Game loop deinit
+Gameflow 11
+Unloading system background data...sprite data...OK
+Loading match assets...
+Loading stage...
+  Loading BG...OK
+Stage loaded OK
+Setting game resolution 1280x720...OK
+  Allocating helpers...OK
+Match RNG seed: 1490361451
+Reset persist vars team 0
+Reset persist vars team 1
+Loading character chars/Goku_SSB/Goku_SSB.def...
+  Loading info...OK
+  Loading cmd command set Goku_SSB.cmd...OK
+  Loading cns Goku_SSB.cns...OK
+  Loading cns IA.cns...OK
+  Loading cns Especiales.cns...OK
+  Loading cns Supers.cns...OK
+  Loading cmd state entry Goku_SSB.cmd...OK
+  Loading common states common1.cns...OK
+  Loading sff Goku_SSB.sff...OK
+  Loading anim Goku_SSB.air...OK
+  Loading snd Goku_SSB.snd...OK
+  Loading pals...OK
+  4473 expressions (1267 on trigger lines)
+Character Goku_SSB.def loaded OK
+New char Goku SSB loaded into cache: (1/4 cached) Load time: 700.000ms
+Loading character chars/Golden_Frieza/Golden_Frieza.def...
+  Loading info...OK
+  Loading cmd command set Golden_Frieza.cmd...OK
+  Loading cns Golden_Frieza.cns...OK
+  Loading cns IA.cns...OK
+  Loading cns Especiales.cns...OK
+  Loading cns Supers.cns...OK
+  Loading cmd state entry Golden_Frieza.cmd...OK
+  Loading common states common1.cns...OK
+  Loading sff Golden_Frieza.sff...OK
+  Loading anim Golden_Frieza.air...OK
+  Loading snd Golden_Frieza.snd...OK
+  Loading pals...OK
+  5753 expressions (1500 on trigger lines)
+Character Golden_Frieza.def loaded OK
+New char Golden Frieza loaded into cache: (2/4 cached) Load time: 700.000ms
+Resetting round
+Match assets initialized OK
+Game loop init
+Match loop init
+CloseWindow event forced common loop quit.
+End of match loop
+Total time: 135.53s
+Total frames: 8128 	Skipped frames: 2
+Avg game rate: 59.97
+Avg frame rate: 59.96
+
+Finishing match
+Freeing players
+Save persist vars P56 Goku SSB
+Player Goku SSB cache count reduced: 0
+Save persist vars P57 Golden Frieza
+Player Golden Frieza cache count reduced: 0
+Match RNG closed
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Setting game resolution 1280x960...OK
+Reloading system sprite data...Reloading system background data...OK
+Unloading match assets
+Freeing players
+Unloading stage...OK
+Game loop init
+Unreserved all palettes
+Charsel init
+Game loop deinit
+Canceled character select.
+Gameflow 4
+Entering mode select.
+Unloading match assets
+Freeing players
+Game loop init
+Mode select init
+End of mode select loop
+Game loop deinit
+Returned from gameflow loop
+Deinitializing...
+Frames      : 11124
+Time elapsed: 201.660 sec
+ticks: 20166, tps: 100, start 290, end 20456
+
+Unloading match assets
+Freeing players
+Clearing player cache...Freeing player RC Goku SSB...CMD...CNS...SFF...AIR...SND...Misc...OK
+Freeing player RC Golden Frieza...CMD...CNS...SFF...AIR...SND...Misc...OK
+OK
+Freeing character info...OK
+Freeing select screen...OK
+Freeing fight data...OK
+Freeing system data...OK
+Freeing game variables...Unloading match assets
+Freeing players
+OK
+Deinitializing input...pad...keyboard...OK
+Removing callbacks...OK
+Deintializing timer...OK
+Deinitializing graphics...OK
+Deinitializing BGM...OK
+Deinitializing sound...OK
+Successful program termination.
+
+Log file successfully closed.
